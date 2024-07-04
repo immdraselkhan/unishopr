@@ -1,0 +1,12 @@
+input:checked ~ .dot {
+  transform: translateX(100%);
+  background-color: #212121;
+}
+
+.bg-facebook {
+  background-color: #4267b2;
+}
+
+.bg-google {
+  background-color: #4285f4;
+}

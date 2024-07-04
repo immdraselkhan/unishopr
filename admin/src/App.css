@@ -1,0 +1,142 @@
+.ant-form-item {
+  margin-bottom: 7px !important;
+}
+#myForm .ant-input {
+  padding: 7px 11px !important;
+}
+.my-form .ant-input {
+  padding: 7px 11px !important;
+}
+#myForm .ant-input-number-input {
+  padding: 7px 11px !important;
+  height: unset !important;
+}
+.myForm .ant-input-number-input {
+  padding: 7px 11px !important;
+  height: unset !important;
+}
+.hidden {
+  display: none !important;
+}
+.striking-logo img {
+  max-height: 35px !important;
+  width: unset !important;
+  max-width: unset !important;
+}
+.ant-popover {
+  z-index: unset !important;
+}
+.table-responsive .ant-table-content .ant-table-cell {
+  white-space: unset !important;
+}
+.ant-card-body {
+  padding: 15px !important;
+}
+.ant-pagination {
+  margin: 0 !important;
+}
+.ant-table-pagination {
+  padding-top: 15px !important;
+}
+/* .anticon { vertical-align: unset !important; } */
+.ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  padding: 8px 16px !important;
+}
+.ant-page-header {
+  padding: 20px !important;
+  border-radius: 10px !important;
+  margin-top: 30px !important;
+}
+.login-form {
+  margin-top: 10% !important;
+  padding: 20px !important;
+  background-color: #fff !important;
+  border-radius: 10px !important;
+}
+.pl-5 {
+  padding-left: 5px;
+}
+.pr-5 {
+  padding-right: 5px;
+}
+.pt-5 {
+  padding-top: 5px;
+}
+.pb-5 {
+  padding-bottom: 5px;
+}
+.ant-btn-sm {
+  height: 24px;
+  padding: 0 7px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+.ant-descriptions {
+  margin-bottom: 15px;
+}
+.minimum-mt {
+  margin-top: 5px;
+}
+.border-radius-3 {
+  border-radius: 3px;
+}
+.no-padding {
+  padding: 0 !important;
+}
+.no-margin {
+  margin: 0 !important;
+}
+.pointer {
+  cursor: pointer;
+}
+.minimum-mr {
+  margin-right: 5px;
+}
+.border-danger {
+  border-color: #ff4d4f;
+}
+.border-success {
+  border-color: #20c997;
+}
+.border-primary {
+  border-color: #d4535c;
+}
+.border-info {
+  border-color: #2c99ff;
+}
+/* Invoice form */
+.list-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end !important;
+}
+.summary-list-input {
+  width: 32%;
+  padding: 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-right: 4px;
+  margin-bottom: 5px;
+}
+.summary-list-input:focus {
+  outline: none !important;
+  border-color: #719ece;
+}
+.minimum-mr {
+  margin-right: 5px;
+}
+.minimum-ml {
+  margin-left: 5px;
+}
+.pt-10 {
+  padding-top: 10px;
+}
+.pointer {
+  cursor: pointer;
+}
+.text-bold {
+  font-weight: bold;
+}
